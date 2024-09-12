@@ -1,6 +1,8 @@
 # Tetris Game 🎮
 ### Este é um jogo de Tetris desenvolvido em C# usando WPF (Windows Presentation Foundation). O projeto implementa a lógica básica do jogo, incluindo movimentação das peças, rotação, detecção de colisões e preenchimento de linhas.
 
+![Game](https://github.com/user-attachments/assets/787b0711-964a-4323-97fa-39bf75701cfd)
+
 ## 📋 Funcionalidades
 ### Movimentação das peças: O jogador pode mover as peças para a esquerda, direita e para baixo, além de girá-las em sentido horário e anti-horário.
 ### Gravidade: As peças caem automaticamente conforme o tempo passa.
